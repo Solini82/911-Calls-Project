@@ -32,9 +32,3 @@ The following libraries are used in this project:
 - **NumPy**: For numerical computations.
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib** and **Seaborn**: For data visualization.
-
-## How to Run
-
-1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook and run the cells to reproduce the analysis.
