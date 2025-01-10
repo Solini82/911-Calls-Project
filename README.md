@@ -1,4 +1,4 @@
-# 911 Calls Capstone Project
+# 911 Calls Data Analysis Project
 
 This project analyzes 911 call data from Montgomery County, Pennsylvania, sourced from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The primary goal is to explore patterns and trends in emergency call data to gain insights into public safety and emergency services.
 
